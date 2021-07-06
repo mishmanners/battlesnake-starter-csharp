@@ -21,9 +21,9 @@ namespace Starter.Api.Controllers
             {
                 ApiVersion = "1",
                 Author = "MishManners",
-                Color = "#FFFFFF",
-                Head = "default",
-                Tail = "default"
+                Color = "#6bbefd",
+                Head = "mask",
+                Tail = "freckled"
             };
 
             return Ok(response);
