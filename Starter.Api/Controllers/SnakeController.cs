@@ -23,7 +23,7 @@ namespace Starter.Api.Controllers
                 Author = "MishManners",
                 Color = "#6bbefd",
                 Head = "mask",
-                Tail = "freckled"
+                Tail = "flake"
             };
 
             return Ok(response);
