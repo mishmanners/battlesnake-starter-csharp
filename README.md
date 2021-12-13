@@ -3,7 +3,7 @@
 This is a basic implementation of the Battlesnake API. It's a great starting point for anyone wanting to program their first Battlesnake using C#. 
 It can also be deployed to Azure, or any other cloud provider you'd like.
 
-Forked from the official Battlesnake starter. There are lots of snakes you can use to get started, including Python, Go, C#, and more.
+Forked from the official Battlesnake starter. There are lots of snakes you can use to get started, including Python, Go, C#, and more. If you are forking the repo, add "Battlesnake" to the tags and you'll appear on the [official Battlesnake tag](https://twitter.com/playbattlesnake/status/1470159791762796550). As of Dec 2021, there are over 1000 Battlesnake repos! 😲
 
 ### Technologies Used
 
