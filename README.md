@@ -3,6 +3,8 @@
 This is a basic implementation of the Battlesnake API. It's a great starting point for anyone wanting to program their first Battlesnake using C#. 
 It can also be deployed to Azure, or any other cloud provider you'd like.
 
+Forked from the official Battlesnake starter. There are lots of snakes you can use to get started, including Python, Go, C#, and more.
+
 ### Technologies Used
 
 * [Asp Net Core](https://dotnet.microsoft.com/apps/aspnet)
